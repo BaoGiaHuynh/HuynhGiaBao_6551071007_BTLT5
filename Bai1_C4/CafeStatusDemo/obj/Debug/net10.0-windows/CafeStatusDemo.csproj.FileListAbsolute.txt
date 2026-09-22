@@ -1,0 +1,16 @@
+D:\CafeStatusDemo\CafeStatusDemo\bin\Debug\net10.0-windows\CafeStatusDemo.exe
+D:\CafeStatusDemo\CafeStatusDemo\bin\Debug\net10.0-windows\CafeStatusDemo.deps.json
+D:\CafeStatusDemo\CafeStatusDemo\bin\Debug\net10.0-windows\CafeStatusDemo.runtimeconfig.json
+D:\CafeStatusDemo\CafeStatusDemo\bin\Debug\net10.0-windows\CafeStatusDemo.dll
+D:\CafeStatusDemo\CafeStatusDemo\bin\Debug\net10.0-windows\CafeStatusDemo.pdb
+D:\CafeStatusDemo\CafeStatusDemo\obj\Debug\net10.0-windows\CafeStatusDemo.Form1.resources
+D:\CafeStatusDemo\CafeStatusDemo\obj\Debug\net10.0-windows\CafeStatusDemo.csproj.GenerateResource.cache
+D:\CafeStatusDemo\CafeStatusDemo\obj\Debug\net10.0-windows\CafeStatusDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\CafeStatusDemo\CafeStatusDemo\obj\Debug\net10.0-windows\CafeStatusDemo.AssemblyInfoInputs.cache
+D:\CafeStatusDemo\CafeStatusDemo\obj\Debug\net10.0-windows\CafeStatusDemo.AssemblyInfo.cs
+D:\CafeStatusDemo\CafeStatusDemo\obj\Debug\net10.0-windows\CafeStatusDemo.csproj.CoreCompileInputs.cache
+D:\CafeStatusDemo\CafeStatusDemo\obj\Debug\net10.0-windows\CafeStatusDemo.dll
+D:\CafeStatusDemo\CafeStatusDemo\obj\Debug\net10.0-windows\refint\CafeStatusDemo.dll
+D:\CafeStatusDemo\CafeStatusDemo\obj\Debug\net10.0-windows\CafeStatusDemo.pdb
+D:\CafeStatusDemo\CafeStatusDemo\obj\Debug\net10.0-windows\CafeStatusDemo.genruntimeconfig.cache
+D:\CafeStatusDemo\CafeStatusDemo\obj\Debug\net10.0-windows\ref\CafeStatusDemo.dll
